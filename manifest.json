@@ -2,7 +2,7 @@
   "name": "Stillness",
   "short_name": "Stillness",
   "description": "A moment of calm, whenever you need it.",
-  "start_url": "./stillness.html",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#F7F4F0",
   "theme_color": "#7BA08A",
