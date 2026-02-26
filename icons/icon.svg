@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Background circle -->
+  <circle cx="256" cy="256" r="256" fill="#7BA08A"/>
+  <!-- Soft inner glow -->
+  <circle cx="256" cy="256" r="220" fill="#8DB09A" opacity="0.4"/>
+  <!-- Leaf / wave motif -->
+  <path d="M256 140 C200 180, 160 230, 180 290 C200 350, 256 370, 256 370 C256 370, 312 350, 332 290 C352 230, 312 180, 256 140 Z" fill="white" opacity="0.85"/>
+  <!-- Centre vein line -->
+  <line x1="256" y1="155" x2="256" y2="360" stroke="#7BA08A" stroke-width="3" stroke-linecap="round" opacity="0.5"/>
+  <!-- Lateral veins -->
+  <path d="M256 200 Q230 215 215 230" stroke="#7BA08A" stroke-width="2" stroke-linecap="round" fill="none" opacity="0.4"/>
+  <path d="M256 240 Q225 255 210 270" stroke="#7BA08A" stroke-width="2" stroke-linecap="round" fill="none" opacity="0.4"/>
+  <path d="M256 200 Q282 215 297 230" stroke="#7BA08A" stroke-width="2" stroke-linecap="round" fill="none" opacity="0.4"/>
+  <path d="M256 240 Q287 255 302 270" stroke="#7BA08A" stroke-width="2" stroke-linecap="round" fill="none" opacity="0.4"/>
+</svg>
